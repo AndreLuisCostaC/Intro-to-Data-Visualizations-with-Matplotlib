@@ -5,7 +5,6 @@ In this [Houston Data Science][1] meetup we will cover the Matplotlib Python vis
 Follow the tutorial in the [Intro to Python][2] repository in order to install the Anaconda distribution with Python 3.
 
 # Agenda
-Cover the following Python data science libraries
 * Understanding the Figure/Axes hierarchy of Matplotlib
 * Matplotlib's dual interface - Choosing the object-oriented vs the stateful interface
 * Setting up the Figure and all the Axes to work with the object-oriented approach
